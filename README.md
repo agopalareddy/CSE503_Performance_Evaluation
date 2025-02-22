@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains performance evaluation experiments comparing Apache and Nginx web servers on AWS EC2. The experiments were conducted as part of the final project for Washington University in St. Louis's CSE 503: Rapid Prototyping and Creative Programming course.
+This repository contains performance evaluation experiments comparing Apache and Nginx web servers on AWS EC2. The experiments were conducted as part of the final project for Washington University in St. Louis's CSE 503S: Rapid Prototyping and Creative Programming course.
 
 ## Repository Structure
 
@@ -26,4 +26,4 @@ Tests were conducted on an AWS EC2 server instance comparing Apache and Nginx we
 
 ## Acknowledgments
 
-This work was completed as part of CSE 503 at Washington University in St. Louis.
+This work was completed as part of CSE 503S at Washington University in St. Louis.
